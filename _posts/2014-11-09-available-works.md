@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Available Works"
+title: "available works"
 description: ""
 category: 
 tags: []
@@ -9,4 +9,4 @@ tags: []
 
 Hello all,
 
-Excited to begin work on the <a href="http://availableworks.net">Available Works</a> project. 
+Excited to begin work on the <a href="http://availableworks.net">Available Works</a> project.
