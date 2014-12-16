@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IFTTT as a proxy"
+title: "IFTTT for anons"
 description: ""
 category: 
 tags: []
