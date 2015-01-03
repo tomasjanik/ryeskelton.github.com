@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Px Grotesk Regular';
-  src: url('../../fonts/PxGrotesk-Regular.eot'); /* IE9 Compat Modes */
-  src: url('../../fonts/PxGrotesk-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../../fonts/PxGrotesk-Regular.woff') format('woff'), /* Modern Browsers */
-       url('../../fonts/PxGrotesk-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('../../fonts/PxGrotesk-Regular.svg#fcffd2ec987e50f3ffe92b8233fa766c') format('svg'); /* Legacy iOS */
+  src: url('../../fonts/PxGrotesk-Regular/PxGrotesk-Regular.eot'); /* IE9 Compat Modes */
+  src: url('../../fonts/PxGrotesk-Regular/PxGrotesk-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../../fonts/PxGrotesk-Regular/PxGrotesk-Regular.woff') format('woff'), /* Modern Browsers */
+       url('../../fonts/PxGrotesk-Regular/PxGrotesk-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../../fonts/PxGrotesk-Regular/PxGrotesk-Regular.svg#fcffd2ec987e50f3ffe92b8233fa766c') format('svg'); /* Legacy iOS */
        
   font-style:   normal;
   font-weight:  400;
